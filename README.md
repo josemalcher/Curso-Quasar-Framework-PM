@@ -10,6 +10,12 @@ https://www.youtube.com/c/PatrickMonteiroEng/videos
 ## <a name="parte1">1 - Tópicos Iniciais </a>
 
 - Aula 01 - Preparando Ambiente para o Quasar
+  
+```
+yarn global add @quasar/cli
+
+```
+
 - Aula 02 - Conhecendo o quasar-cli
 - Aula 03 - Estrutura de um projeto Quasar
 - Aula 04 - Espaçamento CSS
