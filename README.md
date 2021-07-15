@@ -11,13 +11,21 @@ https://www.youtube.com/c/PatrickMonteiroEng/videos
 
 - Aula 01 - Preparando Ambiente para o Quasar
   
+    - [https://www.youtube.com/watch?v=-oRnnZkMnkA](https://www.youtube.com/watch?v=-oRnnZkMnkA)
+    - [https://www.youtube.com/watch?v=VuUdNBNI6JA&t=16s](https://www.youtube.com/watch?v=VuUdNBNI6JA)
 ```
 yarn global add @quasar/cli
 
 ```
 
 - Aula 02 - Conhecendo o quasar-cli
+  
+    - [https://www.youtube.com/watch?v=zRh-eLD3T6E](https://www.youtube.com/watch?v=zRh-eLD3T6E)
+
 - Aula 03 - Estrutura de um projeto Quasar
+  
+    - [https://www.youtube.com/watch?v=iskN4XWHCEo](https://www.youtube.com/watch?v=iskN4XWHCEo)
+
 - Aula 04 - Espaçamento CSS
 - Aula 05 - Flex CSS
 - Aula 06 - Shadows e Visibility
