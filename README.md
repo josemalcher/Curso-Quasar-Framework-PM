@@ -162,6 +162,10 @@ export default defineComponent({
 
 - Aula 06 - Shadows e Visibility
 
+- [https://quasar.dev/style/shadows](https://quasar.dev/style/shadows)
+
+- [https://quasar.dev/style/visibility](https://quasar.dev/style/visibility)
+
 - Aula 07 - Criando páginas e rotas
 
 - Aula 07.1 - Criando páginas com o Quasar-Cli
