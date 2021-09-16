@@ -139,6 +139,27 @@ export default defineComponent({
 
 - Aula 05 - Flex CSS
 
+- [https://quasar.dev/layout/grid/introduction-to-flexbox](https://quasar.dev/layout/grid/introduction-to-flexbox)
+
+```vue
+<template>
+  <q-page class="container">
+    <div class="row justify-center q-gutter-lg">
+      <div class="col-lg-3">
+        <q-btn color="dark" class="full-width">Button</q-btn>
+      </div>
+      <div class="col-lg-5">
+        <q-btn color="dark" class="full-width">Button</q-btn>
+      </div>
+      <div class="col-lg-1">
+        <q-btn color="dark" class="full-width">Button</q-btn>
+      </div>
+    </div>
+  </q-page>
+</template>
+```
+
+
 - Aula 06 - Shadows e Visibility
 
 - Aula 07 - Criando páginas e rotas

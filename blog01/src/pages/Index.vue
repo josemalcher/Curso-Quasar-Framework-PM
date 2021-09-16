@@ -1,18 +1,22 @@
 <template>
-  <q-page>
-<!--    <img
-      alt="Quasar logo"
-      src="~assets/quasar-logo-vertical.svg"
-      style="width: 200px; height: 200px"
-    >-->
-    <div class="q-pa-sm border-black">q-pa-sm</div>
-    <div class="q-ml-xl q-mr-xl q-mt-xl border-black">q-ml-xl</div>
-    <div class="q-ml-sm q-mr-sm q-mt-sm border-black">q-ml-sm</div>
+  <q-page class="container">
+    <div class="row justify-center q-gutter-lg">
+      <div class="col-lg-3">
+        <q-btn color="dark" class="full-width">Button</q-btn>
+      </div>
+      <div class="col-lg-5">
+        <q-btn color="dark" class="full-width">Button</q-btn>
+      </div>
+      <div class="col-lg-1">
+        <q-btn color="dark" class="full-width">Button</q-btn>
+      </div>
+    </div>
   </q-page>
 </template>
 
 <script>
-import { defineComponent } from 'vue'
+/* eslint-disable */
+import {defineComponent} from 'vue';
 
 export default defineComponent({
   name: 'PageIndex'
