@@ -98,6 +98,9 @@ $ quasar dev -m electron
 
 - Aula 03 - Estrutura de um projeto Quasar
 
+- [blog01/quasar.conf.js](blog01/quasar.conf.js)
+
+
 - Aula 04 - Espaçamento CSS
 
 - Aula 05 - Flex CSS
