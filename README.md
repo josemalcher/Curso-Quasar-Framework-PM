@@ -172,6 +172,30 @@ export default defineComponent({
 
 - Aula 07.1 - Criando páginas com o Quasar-Cli
 
+```
+$ quasar new page NopaPagina
+ App • Generated page: src\pages\NopaPagina.vue
+ App • Make sure to reference it in src/router/routes.js
+
+```
+
+- [blog01/src/pages/NopaPagina.vue](blog01/src/pages/NopaPagina.vue)
+
+```vue
+<template>
+  <q-page padding>
+    <!-- content -->
+  </q-page>
+</template>
+
+<script>
+export default {
+  // name: 'PageName',
+}
+</script>
+
+```
+
 - Aula 08 - Usando componente QCard
 
 - Aula 09 - Consumindo API com plugin Axios
