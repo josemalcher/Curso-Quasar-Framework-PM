@@ -168,6 +168,8 @@ export default defineComponent({
 
 - Aula 07 - Criando páginas e rotas
 
+- [https://quasar.dev/vue-components/list-and-list-items](https://quasar.dev/vue-components/list-and-list-items)
+
 - Aula 07.1 - Criando páginas com o Quasar-Cli
 
 - Aula 08 - Usando componente QCard

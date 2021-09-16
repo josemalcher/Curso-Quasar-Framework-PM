@@ -1,16 +1,16 @@
 <template>
   <q-page class="container">
-
+    <div class="row">
+      <h1>Dashboard</h1>
+    </div>
   </q-page>
 </template>
 
 <script>
 /* eslint-disable */
-import {defineComponent} from 'vue';
-
-export default defineComponent({
-  name: 'PageIndex'
-})
+export default {
+  name: "Dashboard"
+}
 </script>
 
 <style scoped>
