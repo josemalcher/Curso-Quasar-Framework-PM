@@ -53,7 +53,7 @@ const linksList = [
     title: 'Dashboard',
     caption: 'Página Inicial',
     icon: 'school',
-    link: '/'
+    link: '/dashboard'
   },
   {
     title: 'Post',
